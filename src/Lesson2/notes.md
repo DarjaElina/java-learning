@@ -36,9 +36,9 @@
 ## Character (`char`)
 - 16-bit Unicode
 - 3 ways to assign:
-    1. `'A'` (single character)
-    2. `char x = 300;` → symbol at Unicode decimal 300 (Ĭ)
-    3. Unicode escape: `'\u1234'` (ሴ)
+  - `'A'` (single character)
+  - `char x = 300;` → symbol at Unicode decimal 300 (Ĭ)
+  - Unicode escape: `'\u1234'` (ሴ)
 
 - Characters like `'\u0300'` are *combining marks*: invisible unless combined (e.g., `"a\u0300"` prints **à**)
 
