@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class Lesson1 {
 
     // this is the main method
