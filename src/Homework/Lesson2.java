@@ -34,10 +34,10 @@ public class Lesson2 {
         System.out.println("int_octal = " + int_octal);
         System.out.print("int_hex = " + int_hex);
 
-        long long_decimal = 123456789;
-        long long_binary = 0B111010110111100110100010101;
-        long long_octal = 0726746425;
-        long long_hex = 0x75BCD15;
+        long long_decimal = 123456789L;
+        long long_binary = 0B111010110111100110100010101L;
+        long long_octal = 0726746425L;
+        long long_hex = 0x75BCD15L;
 
         System.out.println("long_decimal = " + long_decimal);
         System.out.println("long_binary = " + long_binary);
