@@ -12,7 +12,7 @@ public class Lesson2 {
         System.out.println("byte_decimal = " + byte_decimal);
         System.out.println("byte_binary = " + byte_binary);
         System.out.println("byte_octal = " + byte_octal);
-        System.out.print("byte_hex = " + byte_hex);
+        System.out.println("byte_hex = " + byte_hex);
 
         short short_decimal = 1300;
         short short_binary = 0B10100010100;
@@ -22,7 +22,7 @@ public class Lesson2 {
         System.out.println("short_decimal = " + short_decimal);
         System.out.println("short_binary = " + short_binary);
         System.out.println("short_octal = " + short_octal);
-        System.out.print("short_hex = " + short_hex);
+        System.out.println("short_hex = " + short_hex);
 
         int int_decimal = 0;
         int int_binary = 0B0;
@@ -32,7 +32,7 @@ public class Lesson2 {
         System.out.println("int_decimal = " + int_decimal);
         System.out.println("int_binary = " + int_binary);
         System.out.println("int_octal = " + int_octal);
-        System.out.print("int_hex = " + int_hex);
+        System.out.println("int_hex = " + int_hex);
 
         long long_decimal = 123456789L;
         long long_binary = 0B111010110111100110100010101L;
@@ -42,7 +42,7 @@ public class Lesson2 {
         System.out.println("long_decimal = " + long_decimal);
         System.out.println("long_binary = " + long_binary);
         System.out.println("long_octal = " + long_octal);
-        System.out.print("long_hex = " + long_hex);
+        System.out.println("long_hex = " + long_hex);
 
         float float1 = 3.14f;
         float float2 = 42.0F;
