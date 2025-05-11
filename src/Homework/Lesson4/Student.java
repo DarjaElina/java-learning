@@ -22,7 +22,7 @@ class StudentTest {
         Anna.economyGrade = 4.8f;
         System.out.println("Anna's math grade is " + Anna.mathGrade);
         System.out.println("Anna's englishGrade is " + Anna.englishGrade);
-        System.out.println("Anna's economyGrade is " + Anna.economyGrade);
+        System.out.println("Anna's economyGrade is " + Anna.englishGrade);
 
         Student John = new Student();
         John.studentNumber = 11;
@@ -35,5 +35,11 @@ class StudentTest {
         System.out.println("John's math grade is " + John.mathGrade);
         System.out.println("John's englishGrade is " + John.englishGrade);
         System.out.println("John's economyGrade is " + John.economyGrade);
+
+        float annaAverage = (Anna.mathGrade + Anna.englishGrade + Anna.englishGrade) / 3;
+        float johnAverage = (John.mathGrade + John.englishGrade + John.englishGrade) / 3;
+
+        System.out.println("Anna's average grade is " + annaAverage);
+        System.out.println("John's average grade is " + johnAverage);
     }
 }
