@@ -12,7 +12,7 @@ public class OperatorPrecedence {
         int d = (a++ - b) * 2; // (11 - 3) * 2 = 8 * 2 = 16
         System.out.println(d);
 
-        // 1) ++ -- 1
+        // 1) ++ -- !
         // 2) * / %
         // 3) + -
         // < <= > >=
