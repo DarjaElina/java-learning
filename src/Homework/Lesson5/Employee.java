@@ -7,6 +7,14 @@ public class Employee {
     double salary;
     String department;
 
+    Employee(int newId, String newSurname, int newAge, double newSalary, String newDepartment) {
+        id = newId;
+        surname = newSurname;
+        age = newAge;
+        salary = newSalary;
+        department = newDepartment;
+    }
+
     void doubleSalary() {
         salary *= 2;
     }
@@ -14,12 +22,7 @@ public class Employee {
 
 class EmployeeTest {
     public static void main(String[] args) {
-        Employee employee = new Employee();
-        employee.id = 100;
-        employee.surname = "Smith";
-        employee.age = 25;
-        employee.salary = 10000;
-        employee.department = "Engineering";
+        Employee employee = new Employee(1, "Smith", 25, 10000, "Engineering");
 
         System.out.println("Employee's salary is: " + employee.salary);
         employee.doubleSalary();
