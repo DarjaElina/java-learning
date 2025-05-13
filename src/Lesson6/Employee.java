@@ -8,7 +8,7 @@ public class Employee {
     String department;
 
     // constructor 1
-    Employee(int newId, String newSurname, int newAge) {
+    public  Employee(int newId, String newSurname, int newAge) {
        this(newId, newSurname, newAge, 0.0, null);
     }
 
