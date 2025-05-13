@@ -10,7 +10,7 @@ This repository contains notes, code examples, and exercises from a Java program
 | 2 | Primitive types. Variables. Number systems | ✅ |
 | 3 | Arithmetic, logical operations. Comparison and assignment | ✅ |
 | 4 | Classes and objects. Reference types | ✅ |
-| 5 | Object creation. Constructors. Method calls | ⬜ |
+| 5 | Object creation. Constructors. Method calls | ✅ |
 | 6 | Method and constructor overloading. `this` keyword | ⬜ |
 | 7 | Packages and access modifiers | ⬜ |
 | 8 | `final` and `static` modifiers. Constants | ⬜ |
