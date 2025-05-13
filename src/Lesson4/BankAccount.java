@@ -6,9 +6,12 @@ public class BankAccount {
     String name;
     double balance;
 
-    public static void main(String[] args) {
+    void deposit(double amount) {
+        balance = balance + amount;
+    }
 
-
+    void withdraw(double amount) {
+        balance = balance - amount;
     }
 }
 
@@ -34,8 +37,14 @@ class TestBankAccount {
         account2.balance = 2.00;
 
         BankAccount account3 = new BankAccount();
-        account.id = 3;
-        account.name = "Jane";
-        account.balance = 267.76;
+        account3.id = 3;
+        account3.name = "Jane";
+        account3.balance = 267.76;
+
+        account3.deposit(2.00);
+        System.out.println("account3 balance is " + account3.balance);
+
+        account3.withdraw(10.00);
+        System.out.println("account3 balance is " + account3.balance);
     }
 }

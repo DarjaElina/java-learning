@@ -11,6 +11,11 @@ public class Student {
 }
 
 class StudentTest {
+
+    static void showAverage(Student s) {
+        float average = (s.mathGrade + s.englishGrade + s.englishGrade) / 3;
+        System.out.println("Average grade: "+ average);
+    }
     public static void main(String[] args) {
         Student Anna = new Student();
         Anna.studentNumber = 10;
@@ -41,5 +46,8 @@ class StudentTest {
 
         System.out.println("Anna's average grade is " + annaAverage);
         System.out.println("John's average grade is " + johnAverage);
+
+        StudentTest.showAverage(John);
+        StudentTest.showAverage(Anna);
     }
 }
