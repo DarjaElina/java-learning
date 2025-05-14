@@ -1,6 +1,6 @@
 package Homework.Lesson7;
 
-public class Lesson7_1 {
+public class Test {
     public static void main(String[] args) {
         Homework.Lesson7.Employee employee = new Employee(100, "Smith");
         System.out.println(employee.surname); // public
