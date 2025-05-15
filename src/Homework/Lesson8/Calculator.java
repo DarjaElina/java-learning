@@ -1,7 +1,7 @@
 package Homework.Lesson8;
 
 public class Calculator {
-    static final float PI = 3.14f;
+    static final double PI = 3.14f;
 
     public static double multiply(double a, double b, double c) {
         return a * b * c;
