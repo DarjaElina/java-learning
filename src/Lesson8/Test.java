@@ -35,7 +35,6 @@ public class Test {
 
     Test() {
         c = 10;
-        d = 10;
     }
 
     // We cannot create constructor without defining final variable there
