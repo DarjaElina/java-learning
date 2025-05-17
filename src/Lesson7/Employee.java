@@ -7,6 +7,7 @@ public class Employee {
     private double salary;
     // default instance variable
     int age;
+    public static int count = 0;
 
     // public method
     public void printName() {
