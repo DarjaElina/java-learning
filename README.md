@@ -13,9 +13,9 @@ This repository contains notes, code examples, and exercises from a Java program
 | 5 | Object creation. Constructors. Method calls | ✅ |
 | 6 | Method and constructor overloading. `this` keyword | ✅ |
 | 7 | Packages and access modifiers | ✅ |
-| 8 | `final` and `static` modifiers. Constants | ⬜ |
-| 9 | Variable types and scope | ⬜ |
-| 10 | `import`, `import static`. Comments | ⬜ |
+| 8 | `final` and `static` modifiers. Constants | ✅ |
+| 9 | Variable types and scope | ✅ |
+| 10 | `import`, `import static`. Comments | ✅ |
 | 11 | Passing primitive and reference types to methods | ⬜ |
 | 12 | `if`, `if else`, ternary operator | ⬜ |
 | 13 | `switch` statement | ⬜ |
