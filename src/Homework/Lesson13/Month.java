@@ -12,40 +12,22 @@ public class Month {
     public void showDaysInMonth() {
         switch (this.number) {
             case 1:
-                System.out.println("31 days in the month");
-                break;
-            case 2:
-                System.out.println("28 days in the month");
-                break;
             case 3:
+            case 5:
+            case 7:
+            case 8:
+            case 10:
+            case 12:
                 System.out.println("31 days in the month");
                 break;
             case 4:
-                System.out.println("30 days in the month");
-                break;
-            case 5:
-                System.out.println("31 days in the month");
-                break;
             case 6:
-                System.out.println("30 days in the month");
-                break;
-            case 7:
-                System.out.println("31 days in the month");
-                break;
-            case 8:
-                System.out.println("31 days in the month");
-                break;
             case 9:
-                System.out.println("30 days in the month");
-                break;
-            case 10:
-                System.out.println("31 days in the month");
-                break;
             case 11:
                 System.out.println("30 days in the month");
                 break;
-            case 12:
-                System.out.println("31 days in the month");
+            case 2:
+                System.out.println("28 days in the month");
                 break;
             default:
                 System.out.println("Invalid month");
