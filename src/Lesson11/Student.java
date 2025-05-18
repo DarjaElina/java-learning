@@ -1,11 +1,11 @@
 package Lesson11;
 
 public class Student {
-    String name;
-    int year;
-    double grade;
+    public String name;
+    public int year;
+    public double grade;
 
-    Student(String name, int year, double grade) {
+    public Student(String name, int year, double grade) {
         this.name = name;
         this.year = year;
         this.grade = grade;
