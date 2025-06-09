@@ -20,8 +20,8 @@ This repository contains notes, code examples, and exercises from a Java program
 | 12 | `if`, `if else`, ternary operator | ✅ |
 | 13 | `switch` statement | ✅ |
 | 14 | `for` loop. `break` and `continue` | ✅ |
-| 15 | `while` and `do while` loops | ⬜ |
-| 16 | The `String` class (Part 1) | ⬜ |
+| 15 | `while` and `do while` loops | ✅ |
+| 16 | The `String` class (Part 1) | ✅ |
 | 17 | `String` methods (Part 2) | ⬜ |
 | 18 | The `StringBuilder` class | ⬜ |
 | 19 | Arrays and array operations | ⬜ |
