@@ -21,28 +21,28 @@ This repository contains notes, code examples, and exercises from a Java program
 | 13 | `switch` statement | ✅ |
 | 14 | `for` loop. `break` and `continue` | ✅ |
 | 15 | `while` and `do while` loops | ✅ |
-| 16 | The `String` class (Part 1) | ✅ |
-| 17 | `String` methods (Part 2) | ⬜ |
-| 18 | The `StringBuilder` class | ⬜ |
-| 19 | Arrays and array operations | ⬜ |
-| 20 | `varargs`, command line args, `foreach` loop | ⬜ |
-| 21 | `ArrayList` class (Part 1) | ⬜ |
-| 22 | `Arrays` class methods (Part 2) | ⬜ |
-| 23 | `ArrayList` (Part 3). Collections | ⬜ |
-| 24 | Garbage Collection | ⬜ |
-| 25 | Encapsulation. `super`, `protected` | ⬜ |
-| 26 | Overriding, hiding, `final` | ⬜ |
-| 27 | Abstract, default, static methods in interfaces | ⬜ |
-| 28 | Interfaces (Part 2) | ⬜ |
-| 29 | Polymorphism. `instanceof` operator | ⬜ |
-| 30 | `equals`, `toString`, wrapper classes | ⬜ |
-| 31 | Exceptions and Errors (Part 1) | ⬜ |
-| 32 | Exceptions and Errors (Part 2) | ⬜ |
-| 33 | Working with date and time classes | ⬜ |
-| 34 | Lambda expressions (Part 1) | ⬜ |
-| 35 | Type inference. Lambdas (Part 2) | ⬜ |
-| 36 | Generics | ⬜ |
-| 37 | Modules | ⬜ |
-| 38 | Working from command line | ⬜ |
-| 39 | Exam registration and tips | ⬜ |
-| 40 | Review of 46 example problems | ⬜ |
+| 16.1 | The `String` class (Part 1) | ✅ |
+| 16.2 | `String` methods (Part 2) | ✅ |
+| 17 | The `StringBuilder` class | ✅ |
+| 18 | Arrays and array operations | ✅ |
+| 19 | `varargs`, command line args, `foreach` loop | ⬜ |
+| 20.1 | `ArrayList` class (Part 1) | ⬜ |
+| 20.2 | `Arrays` class methods (Part 2) | ⬜ |
+| 20.3 | `ArrayList` (Part 3). Collections | ⬜ |
+| 21 | Garbage Collection | ⬜ |
+| 22 | Encapsulation. `super`, `protected` | ⬜ |
+| 23 | Overriding, hiding, `final` | ⬜ |
+| 24.1 | Abstract, default, static methods in interfaces | ⬜ |
+| 24.2 | Interfaces (Part 2) | ⬜ |
+| 25 | Polymorphism. `instanceof` operator | ⬜ |
+| 26 | `equals`, `toString`, wrapper classes | ⬜ |
+| 27 | Exceptions and Errors (Part 1) | ⬜ |
+| 28 | Exceptions and Errors (Part 2) | ⬜ |
+| 29 | Working with date and time classes | ⬜ |
+| 30.1 | Lambda expressions (Part 1) | ⬜ |
+| 30.2 | Type inference. Lambdas (Part 2) | ⬜ |
+| 31 | Generics | ⬜ |
+| 32 | Modules | ⬜ |
+| 33 | Working from command line | ⬜ |
+| 34 | Exam registration and tips | ⬜ |
+| 35 | Review of 46 example problems | ⬜ |
