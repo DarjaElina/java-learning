@@ -27,10 +27,10 @@ This repository contains notes, code examples, and exercises from a Java program
 | 18 | Arrays and array operations | ✅ |
 | 19 | `varargs`, command line args, `foreach` loop | ✅ |
 | 20.1 | `ArrayList` class (Part 1) | ✅ |
-| 20.2 | `Arrays` class methods (Part 2) | ⬜ |
-| 20.3 | `ArrayList` (Part 3). Collections | ⬜ |
-| 21 | Garbage Collection | ⬜ |
-| 22 | Encapsulation. `super`, `protected` | ⬜ |
+| 20.2 | `Arrays` class methods (Part 2) | ✅ |
+| 20.3 | `ArrayList` (Part 3). Collections | ✅ |
+| 21 | Garbage Collection | ✅ |
+| 22 | Encapsulation. `super`, `protected` | ✅ |
 | 23 | Overriding, hiding, `final` | ⬜ |
 | 24.1 | Abstract, default, static methods in interfaces | ⬜ |
 | 24.2 | Interfaces (Part 2) | ⬜ |
