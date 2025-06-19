@@ -31,7 +31,7 @@ This repository contains notes, code examples, and exercises from a Java program
 | 20.3 | `ArrayList` (Part 3). Collections | ✅ |
 | 21 | Garbage Collection | ✅ |
 | 22 | Encapsulation. `super`, `protected` | ✅ |
-| 23 | Overriding, hiding, `final` | ⬜ |
+| 23 | Overriding, hiding, `final` | ✅ |
 | 24.1 | Abstract, default, static methods in interfaces | ⬜ |
 | 24.2 | Interfaces (Part 2) | ⬜ |
 | 25 | Polymorphism. `instanceof` operator | ⬜ |
