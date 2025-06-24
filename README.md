@@ -32,12 +32,12 @@ This repository contains notes, code examples, and exercises from a Java program
 | 21 | Garbage Collection | ✅ |
 | 22 | Encapsulation. `super`, `protected` | ✅ |
 | 23 | Overriding, hiding, `final` | ✅ |
-| 24.1 | Abstract, default, static methods in interfaces | ⬜ |
-| 24.2 | Interfaces (Part 2) | ⬜ |
-| 25 | Polymorphism. `instanceof` operator | ⬜ |
-| 26 | `equals`, `toString`, wrapper classes | ⬜ |
-| 27 | Exceptions and Errors (Part 1) | ⬜ |
-| 28 | Exceptions and Errors (Part 2) | ⬜ |
+| 24.1 | Abstract, default, static methods in interfaces | ✅ |
+| 24.2 | Interfaces (Part 2) | ✅ |
+| 25 | Polymorphism. `instanceof` operator | ✅ |
+| 26 | `equals`, `toString`, wrapper classes | ✅ |
+| 27 | Exceptions and Errors (Part 1) | ✅ |
+| 28 | Exceptions and Errors (Part 2) | ✅ |
 | 29 | Working with date and time classes | ⬜ |
 | 30.1 | Lambda expressions (Part 1) | ⬜ |
 | 30.2 | Type inference. Lambdas (Part 2) | ⬜ |
