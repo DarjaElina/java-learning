@@ -3,8 +3,8 @@ import java.time.*;
 import java.time.format.*;
 
 public class ShoppingMall {
-    static DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy, MMMM-MM !! HH:mm");
-    static DateTimeFormatter formatter2 = DateTimeFormatter.ofPattern(" HH:mm, MM/MMM/dd");
+    static DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy, MMMM-dd !! hh:mm");
+    static DateTimeFormatter formatter2 = DateTimeFormatter.ofPattern("hh:mm, dd/MMM/dd");
 
     void shift(LocalDateTime ldt1, LocalDateTime ldt2, Period period, Duration duration) {
         while (ldt1.isBefore(ldt2)) {
