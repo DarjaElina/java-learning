@@ -38,10 +38,10 @@ This repository contains notes, code examples, and exercises from a Java program
 | 26 | `equals`, `toString`, wrapper classes | ✅ |
 | 27 | Exceptions and Errors (Part 1) | ✅ |
 | 28 | Exceptions and Errors (Part 2) | ✅ |
-| 29 | Working with date and time classes | ⬜ |
-| 30.1 | Lambda expressions (Part 1) | ⬜ |
-| 30.2 | Type inference. Lambdas (Part 2) | ⬜ |
-| 31 | Generics | ⬜ |
+| 29 | Working with date and time classes | ✅ |
+| 30.1 | Lambda expressions (Part 1) | ✅ |
+| 30.2 | Type inference. Lambdas (Part 2) | ✅ |
+| 31 | Generics | ✅ |
 | 32 | Modules | ⬜ |
 | 33 | Working from command line | ⬜ |
 | 34 | Exam registration and tips | ⬜ |
