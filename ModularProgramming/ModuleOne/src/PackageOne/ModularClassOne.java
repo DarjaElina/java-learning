@@ -2,6 +2,6 @@ package PackageOne;
 
 public class ModularClassOne {
     public static void greeting() {
-        System.out.println("Hello From ModularClassOne!!! 👋 💖");
+        System.out.println("Hello from ModularClassOne 💖");
     }
 }
